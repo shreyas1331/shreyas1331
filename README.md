@@ -11,7 +11,7 @@
 </p>
 
 ## 𝗦𝘁𝗮𝘁𝘂𝘀
-<a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyas1331&theme=react&line_height=40&hide=css"/> </a>
+<!-- <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyas1331&theme=react&line_height=40&hide=css"/> </a> -->
 ![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyas1331&show_icons=true&theme=radical)
 
 
