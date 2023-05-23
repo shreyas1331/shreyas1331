@@ -12,8 +12,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘂𝘀
 <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyas1331&theme=react&line_height=40&hide=css"/> </a>
-<!-- ![Shreyas's github stats] -->
-<!-- (https://github-readme-stats.vercel.app/api?username=shreyas1331&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+![Shreyas's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=shreyas1331&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 <!-- 
