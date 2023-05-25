@@ -19,6 +19,17 @@
 <!-- <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyas1331&theme=react&line_height=40&hide=css"/> </a> -->
 ![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyas1331&show_icons=true&theme=radical)
 
+<hr>
+<div align="right">
+    <p align="left">and to know more about me <br>
+    CLICK THE ICON BELOW ---></p>
+    <a href="https://www.instagram.com/shreyas__mahajan__/">
+        <img align="left" height="40" src="https://i.pinimg.com/originals/b1/8a/b5/b18ab5c717e6da2faa7f30a2ccf20c72.png" alt="">
+    </a>
+    <a href="https://www.linkedin.com/in/shreyas-mahajan-31675023a/">
+        <img align="left" height="40" src="https://boncoach.com/wp-content/uploads/2021/10/connectionlinkedinnetworksocialsquaresquaredicon-1320086082476543960.png" alt="">
+    </a>
+</div>
 
 <!-- 
 Here are some ideas to get you started:
