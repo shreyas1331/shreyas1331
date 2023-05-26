@@ -8,9 +8,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Shreyas+Mahajan+a++passionate;++and+curious++coder!"></a>
 </div>
 <hr>
-🎓 I'm a passionate tech student currently pursuing a degree in Computer Science Branch.
-🌱 Currently, I'm sharpening my skills in JavaScript and Nodejs.
-🌐 Check out my GitHub repositories to explore my projects and code samples.
+-🎓 I'm a passionate tech student currently pursuing a degree in Computer Science Branch.
+
+-🌱 Currently, I'm sharpening my skills in JavaScript and Nodejs.
+
+-🌐 Check out my GitHub repositories to explore my projects and code samples.
     Don't forget to leave a ⭐️ if you find anything interesting or useful!
 
 <h3 align="left">Languages and Tools:</h3>
