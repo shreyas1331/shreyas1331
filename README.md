@@ -17,7 +17,32 @@
 
 ## 𝗦𝘁𝗮𝘁𝘂𝘀
 <!-- <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyas1331&theme=react&line_height=40&hide=css"/> </a> -->
-![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyas1331&show_icons=true&theme=radical)
+<!-- ![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyas1331&show_icons=true&theme=radical) -->
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyas1331&theme=tokyonight)
+
+<br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyas1331&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyas1331&theme=tokyonight)
+
+<br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyas1331&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyas1331&theme=tokyonight)
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas1331&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="shreyas1331" />
+
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=shreyas1331&theme=tokyonight&no-frame=true&column=8"  alt="shreyas1331"/>
+<br/>
+
+
+
+</div>
 
 <hr>
 <div align="right">
