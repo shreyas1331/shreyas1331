@@ -53,7 +53,7 @@
         <img align="left" height="40" src="https://i.pinimg.com/originals/b1/8a/b5/b18ab5c717e6da2faa7f30a2ccf20c72.png" alt="">
     </a>
     <a href="https://www.linkedin.com/in/shreyas-mahajan-31675023a/">
-        <img align="left" height="40" src="https://boncoach.com/wp-content/uploads/2021/10/connectionlinkedinnetworksocialsquaresquaredicon-1320086082476543960.png" alt="">
+        <img align="left" height="40" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-1024.png" alt="">
     </a>
 </div>
 
