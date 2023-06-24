@@ -11,7 +11,7 @@
 
 -🎓 I'm a passionate tech student currently pursuing a degree in Computer Science Branch.
 
--🌱 Currently, I'm sharpening my skills in JavaScript and Nodejs.
+-🌱 Currently, I'm sharpening my skills in JavaScript, Nodejs and Expressjs.
 
 -🌐 Check out my GitHub repositories to explore my projects and code samples.Don't forget to leave a ⭐️ if you find anything interesting or useful!
 
